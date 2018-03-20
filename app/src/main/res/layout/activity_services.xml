@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView01"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E0E0E0">
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ruchi.panchayatseva.servicesActivity">
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical"
+       android:id="@+id/line1">
+
+
+       <Button
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="HOME"
+           android:background="#FFAA00FF"
+           android:textColor="#ffffff"
+           android:id="@+id/home"
+           android:layout_marginTop="5dp"
+           android:layout_weight="1"/>
+       <Button
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="All services"
+           android:background="#FFAA00FF"
+           android:textColor="#ffffff"
+           android:id="@+id/allservices"
+           android:layout_marginTop="5dp"
+           android:layout_weight="1"/>
+       <Button
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="Training Module"
+           android:background="#FFAA00FF"
+           android:textColor="#ffffff"
+           android:id="@+id/trainingmodule"
+           android:layout_marginTop="5dp"
+           android:layout_weight="1"/>
+       <Button
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_marginTop="5dp"
+           android:background="#FFAA00FF"
+           android:textColor="#ffffff"
+           android:id="@+id/discussionforum"
+           android:text="Discussion Forum"
+           android:layout_weight="1"/>
+
+
+
+   </LinearLayout>
+
+
+
+</RelativeLayout>
+</ScrollView>

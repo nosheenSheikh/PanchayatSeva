@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "555975313462",
+    "firebase_url": "https://panchayat-811a0.firebaseio.com",
+    "project_id": "panchayat-811a0",
+    "storage_bucket": "panchayat-811a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555975313462:android:d8049fb427d5060f",
+        "android_client_info": {
+          "package_name": "com.example.ruchi.panchayatseva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555975313462-vib7cst421m7g6iar99mp37kc1i2pqo5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ruchi.panchayatseva",
+            "certificate_hash": "83358f5f0c1fad96ef45a22a95537137b2c778c1"
+          }
+        },
+        {
+          "client_id": "555975313462-cepi4hd8qfgn37q1509n3hrvpbaik6ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMlF3PfjqKHvO2DF3d7Ey6pos-4BfxE-A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555975313462-cepi4hd8qfgn37q1509n3hrvpbaik6ja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
